@@ -1,0 +1,156 @@
+{
+  "categorias": [
+    {
+      "titulo": "Músicas",
+      "cor": "red",
+      "link_extra": {
+        "text": "To sad days",
+        "url": "https://www.youtube.com/watch?v=0G383538qzQ&list=RD0G383538qzQ&start_radio=1&t=0"
+      },
+      "videos": [
+        {
+          "titulo": "Seja Bem Vindo",
+          "url": "https://www.youtube.com/watch?v=zdGAL5FJjaw"
+        },
+        {
+          "titulo": "DEEP BLACK SEA - Country Roads",
+          "url": "https://www.youtube.com/watch?v=Tl55HkQOGS8"
+        },
+        {
+          "titulo": "DEEP BLACK SEA - Wish You Were Here",
+          "url": "https://www.youtube.com/watch?v=DGM1G-Kc7F4"
+        },
+        {
+          "titulo": "PEARL JAM - Black",
+          "url": "https://www.youtube.com/watch?v=4q9UafsiQ6k"
+        },
+        {
+          "titulo": "CHRIS CORNELL - Patience",
+          "url": "https://www.youtube.com/watch?v=myZ32Pf-5PE"
+        },
+        {
+          "titulo": "BLACK PUMAS - Colors",
+          "url": "https://www.youtube.com/watch?v=ay6MLO2pd30"
+        },
+        {
+          "titulo": "KALEO - I Can't Go on Without You ",
+          "url": "https://www.youtube.com/watch?v=NcXsK_u4ixI"
+        },
+        {
+          "titulo": "JACOB BANKS - Unknown (To You)",
+          "url": "https://www.youtube.com/watch?v=RsadnWrUY84"
+        }        
+      ]
+    },
+    {
+      "titulo": "Lives",
+      "cor": "#00C86F",
+      "videos": [
+        {
+          "titulo": "The Neighbourhood - Live at CoronaCapital 2018",
+          "url": "https://www.youtube.com/watch?v=pajC6OWf1rY&list=WL&index=3&t=117s"
+        },
+        {
+          "titulo": "MTV Unplugged: Liam Gallagher",
+          "url": "https://www.youtube.com/watch?v=z-7umhXUZ4c"
+        },
+        {
+          "titulo": "Foo Fighters - Live at Wembley Stadium (2008)(Full Concert)",
+          "url": "https://www.youtube.com/watch?v=jcwBsntqjmY&t=2254s"
+        },
+        {
+          "titulo": "Charlie Brown Jr - Música Popular Caiçara (DVD Oficial)",
+          "url": "https://www.youtube.com/watch?v=8c7fLIkHvW4&t=4601s"
+        }
+      ]
+    },
+    {
+      "titulo": "Séries",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "As melhores",
+        "url": "https://www.tvtime.com/en/to-watch"
+      },
+      "videos": [
+        {
+          "titulo": "Breaking Bad",
+          "url": "https://www.youtube.com/watch?v=2-W6_6gJda0"
+        },
+        {
+          "titulo": "Mr. Robot",
+          "url": "https://www.youtube.com/watch?v=8qZYW_1hj2g"
+        },
+        {
+          "titulo": "Black Mirror",
+          "url": "https://www.youtube.com/watch?v=1w8LBG2qbqc"
+        },
+        {
+          "titulo": "The Office",
+          "url": "https://www.youtube.com/watch?v=LHOtME2DL4g"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "O Poderoso Chefão",
+          "url": "https://www.youtube.com/watch?v=y_-YWEot_7w"
+        },
+        {
+          "titulo": "Psicose",
+          "url": "https://www.youtube.com/watch?v=4VseI9Y-y_w"
+        },
+        {
+          "titulo": "Cães de Aluguel",
+          "url": "https://www.youtube.com/watch?v=3SfljD-TwJA"
+        },
+        {
+          "titulo": "O Homem ìnvisivel",
+          "url": "https://www.youtube.com/watch?v=YJs96ZqAfv4"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "blue",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "The Witcher 3",
+          "url": "https://www.youtube.com/watch?v=c0i88t0Kacs"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Meus Vídeos",
+      "cor": "#6b5be2",
+      "videos": [
+        {
+          "titulo": "Melhor trabalho de TGA da história!!!",
+          "url": "https://www.youtube.com/watch?v=EdWO4UBkngA"
+        }
+      ]
+    }
+  ]
+}
