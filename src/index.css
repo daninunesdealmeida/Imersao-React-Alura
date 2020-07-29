@@ -24,8 +24,9 @@ a {
   color: inherit;
 } 
 
-#root{
-  min-height: calc(100vh - var(--bodyPaddingTop));
+#root {
+  min-height: calc(100vh - var( --bodyPaddingTop));
   background: orange;
+  display: flex;
   flex-direction: column;
 }
