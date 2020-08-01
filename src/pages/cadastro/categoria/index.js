@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import PageRoot from '../../../components/PageRoot';
 import FormField from '../../../components/FormField';
 import Button from '../../../components/Button';
-import useForm from '../../../hooks/useForm';
+import useForm from '../../../components/hooks/useForm';
 import URL_BACKEND from '../../../config';
 
 function CadastroCategoria() {

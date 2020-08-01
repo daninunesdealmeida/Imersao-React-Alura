@@ -13,7 +13,7 @@
       "id": 2,
       "titulo": "Lives",
       "cor": "#00C86F"
-      },
+    },
     {
       "id": 3,
       "titulo": "Séries",
@@ -37,24 +37,24 @@
         "url": "https://www.alura.com.br/cursos-online-front-end"
       }
     },
-      {
-        "id": 6,
-        "titulo": "Meus Vídeos",
-        "cor": "#6b5be2"
+    {
+      "id": 6,
+      "titulo": "Meus Vídeos",
+      "cor": "#6b5be2"
     }
   ],
   "videos": [
     {
       "id": 1,
       "categoriaId": 1,
-      "titulo": "DEEP BLACK SEA - Country Roads",
-      "url": "https://www.youtube.com/watch?v=Tl55HkQOGS8"
+      "titulo": "Seja Bem Vindo",
+      "url": "https://www.youtube.com/watch?v=zdGAL5FJjaw"
     },
     {
       "id": 2,
       "categoriaId": 1,
-      "titulo": "Seja Bem Vindo",
-      "url": "https://www.youtube.com/watch?v=zdGAL5FJjaw"
+      "titulo": "DEEP BLACK SEA - Country Roads",
+      "url": "https://www.youtube.com/watch?v=Tl55HkQOGS8"
     },
     {
       "id": 3,
@@ -74,12 +74,11 @@
       "titulo": "CHRIS CORNELL - Patience",
       "url": "https://www.youtube.com/watch?v=myZ32Pf-5PE"
     },
-
     {
       "id": 6,
       "categoriaId": 1,
       "titulo": "BLACK PUMAS - Colors",
-          "url": "https://www.youtube.com/watch?v=ay6MLO2pd30"
+      "url": "https://www.youtube.com/watch?v=ay6MLO2pd30"
     },
     {
       "id": 7,
@@ -191,9 +190,3 @@
     }
   ]
 }
-
-
-
-
-
-
